@@ -1,0 +1,426 @@
+SUMMARY OF DAY
+-----------------------------------------------
+	Client: Michal Nowak
+	Time spent: 4
+	Payment: 80
+	Enter time: 10:00
+	Exit time: 13:00
+	Enter time: 15:30
+	Exit time: 16:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Maciek Wismiewski
+	Time spent: 6
+	Payment: 120
+	Enter time: 8:30
+	Exit time: 10:30
+	Enter time: 12:30
+	Exit time: 15:30
+	Enter time: 17:30
+	Exit time: 18:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Karol Wojcik
+	Time spent: 1
+	Payment: 10
+	Enter time: 15:30
+	Exit time: 16:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Agata Kowalczyk
+	Time spent: 3
+	Payment: 60
+	Enter time: 10:00
+	Exit time: 13:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Malgorzata Kaminska
+	Time spent: 4
+	Payment: 80
+	Enter time: 12:30
+	Exit time: 15:30
+	Enter time: 15:30
+	Exit time: 16:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Ewa Kowalska
+	Time spent: 2
+	Payment: 20
+	Enter time: 10:30
+	Exit time: 12:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Julia Kowalska
+	Time spent: 2
+	Payment: 40
+	Enter time: 8:30
+	Exit time: 10:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Marcin Kaminski
+	Time spent: 4
+	Payment: 40
+	Enter time: 12:30
+	Exit time: 15:30
+	Enter time: 17:30
+	Exit time: 18:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Michal Nowak
+	Time spent: 3
+	Payment: 60
+	Enter time: 10:30
+	Exit time: 12:30
+	Enter time: 16:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Klara Nowak
+	Time spent: 3
+	Payment: 60
+	Enter time: 9:00
+	Exit time: 12:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Maciek Nowak
+	Time spent: 1
+	Payment: 10
+	Enter time: 17:30
+	Exit time: 18:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Karol Wismiewski
+	Time spent: 3
+	Payment: 30
+	Enter time: 10:30
+	Exit time: 12:30
+	Enter time: 16:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Agata Kowalska
+	Time spent: 3
+	Payment: 60
+	Enter time: 14:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Karolina Wojcik
+	Time spent: 5
+	Payment: 50
+	Enter time: 9:00
+	Exit time: 12:00
+	Enter time: 13:00
+	Exit time: 14:00
+	Enter time: 18:00
+	Exit time: 19:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Malgorzata Kowalczyk
+	Time spent: 1
+	Payment: 20
+	Enter time: 16:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Ewa Wojcik
+	Time spent: 5
+	Payment: 50
+	Enter time: 10:30
+	Exit time: 12:30
+	Enter time: 14:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Julia Wisniewska
+	Time spent: 4
+	Payment: 80
+	Enter time: 9:00
+	Exit time: 12:00
+	Enter time: 18:30
+	Exit time: 19:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Michal Nowakowski
+	Time spent: 3
+	Payment: 60
+	Enter time: 10:30
+	Exit time: 12:30
+	Enter time: 16:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Daria Krol
+	Time spent: 2
+	Payment: 40
+	Enter time: 13:00
+	Exit time: 14:00
+	Enter time: 18:30
+	Exit time: 19:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Martyna Mucha
+	Time spent: 4
+	Payment: 40
+	Enter time: 11:00
+	Exit time: 14:00
+	Enter time: 16:00
+	Exit time: 17:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Joanna Wrona
+	Time spent: 2
+	Payment: 40
+	Enter time: 13:00
+	Exit time: 14:00
+	Enter time: 18:30
+	Exit time: 19:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Aleksander Pietrzak
+	Time spent: 6
+	Payment: 120
+	Enter time: 11:00
+	Exit time: 14:00
+	Enter time: 16:30
+	Exit time: 19:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Bruno Wasilewski
+	Time spent: 3
+	Payment: 60
+	Enter time: 14:30
+	Exit time: 17:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Maja Kaminska
+	Time spent: 5
+	Payment: 100
+	Enter time: 9:00
+	Exit time: 12:00
+	Enter time: 13:00
+	Exit time: 14:00
+	Enter time: 18:30
+	Exit time: 19:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Milena Zielinska
+	Time spent: 3
+	Payment: 30
+	Enter time: 17:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Hubert Jakubowski
+	Time spent: 3
+	Payment: 60
+	Enter time: 11:00
+	Exit time: 14:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Mateusz Gurdala
+	Time spent: 6
+	Payment: 120
+	Enter time: 11:00
+	Exit time: 14:00
+	Enter time: 17:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Igor Kraszewski
+	Time spent: 6
+	Payment: 120
+	Enter time: 9:00
+	Exit time: 12:00
+	Enter time: 14:30
+	Exit time: 17:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Zuzanna Bednarska
+	Time spent: 6
+	Payment: 120
+	Enter time: 11:00
+	Exit time: 14:00
+	Enter time: 17:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Natalia Piasecka
+	Time spent: 5
+	Payment: 100
+	Enter time: 9:30
+	Exit time: 11:30
+	Enter time: 14:30
+	Exit time: 17:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Adrianna Nowak
+	Time spent: 2
+	Payment: 40
+	Enter time: 13:00
+	Exit time: 14:00
+	Enter time: 19:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Franciszek Matuszewski
+	Time spent: 6
+	Payment: 120
+	Enter time: 11:00
+	Exit time: 14:00
+	Enter time: 14:30
+	Exit time: 17:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Batlomiej Fularz
+	Time spent: 3
+	Payment: 60
+	Enter time: 9:30
+	Exit time: 11:30
+	Enter time: 19:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Hubert Nowak
+	Time spent: 4
+	Payment: 80
+	Enter time: 13:00
+	Exit time: 14:00
+	Enter time: 17:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Kinga Zielinska
+	Time spent: 3
+	Payment: 30
+	Enter time: 11:00
+	Exit time: 14:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Kamil Maciejewski
+	Time spent: 6
+	Payment: 120
+	Enter time: 9:30
+	Exit time: 11:30
+	Enter time: 14:30
+	Exit time: 17:30
+	Enter time: 19:00
+	Exit time: 20:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Adam Jędrzejewski
+	Time spent: 1
+	Payment: 20
+	Enter time: 13:00
+	Exit time: 14:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Aleksander Jakubowski
+	Time spent: 3
+	Payment: 60
+	Enter time: 11:30
+	Exit time: 13:30
+	Enter time: 17:30
+	Exit time: 18:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Oliwia Olejniczak
+	Time spent: 6
+	Payment: 120
+	Enter time: 10:00
+	Exit time: 13:00
+	Enter time: 15:00
+	Exit time: 18:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Aleksandra Kolodziej
+	Time spent: 1
+	Payment: 20
+	Enter time: 13:30
+	Exit time: 14:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Nikola Kwiatkowska
+	Time spent: 3
+	Payment: 30
+	Enter time: 11:30
+	Exit time: 13:30
+	Enter time: 17:30
+	Exit time: 18:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Wiktor Koziol
+	Time spent: 3
+	Payment: 60
+	Enter time: 15:00
+	Exit time: 18:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Iga Kozlowska
+	Time spent: 3
+	Payment: 60
+	Enter time: 10:00
+	Exit time: 13:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Adam Dabrowski
+	Time spent: 2
+	Payment: 20
+	Enter time: 8:00
+	Exit time: 10:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Jezy Urban
+	Time spent: 5
+	Payment: 100
+	Enter time: 12:00
+	Exit time: 14:00
+	Enter time: 15:00
+	Exit time: 18:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Bartek Kuczynski
+	Time spent: 3
+	Payment: 60
+	Enter time: 10:00
+	Exit time: 13:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Marek Stepien
+	Time spent: 2
+	Payment: 20
+	Enter time: 8:00
+	Exit time: 10:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Igor Piasecki
+	Time spent: 3
+	Payment: 60
+	Enter time: 12:30
+	Exit time: 15:30
+-----------------------------------------------
+-----------------------------------------------
+	Client: Franciszek Zawadzki
+	Time spent: 6
+	Payment: 120
+	Enter time: 10:00
+	Exit time: 13:00
+	Enter time: 15:00
+	Exit time: 18:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Lukasz Zakrzewski
+	Time spent: 2
+	Payment: 40
+	Enter time: 8:00
+	Exit time: 10:00
+-----------------------------------------------
+-----------------------------------------------
+	Client: Natasza Zielinska
+	Time spent: 4
+	Payment: 80
+	Enter time: 12:30
+	Exit time: 15:30
+	Enter time: 17:30
+	Exit time: 18:30
+-----------------------------------------------
